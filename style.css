@@ -533,7 +533,7 @@ footer p {
   font-size: 1.2rem; /* Slightly larger font for emphasis */
   line-height: 1.8; /* Improve line spacing */
   color: #333; /* Dark text for better readability */
-  text-align: justify; /* Justify text for clean alignment */
+  text-align: left; /* Justify text for clean alignment */
   font-family: 'Roboto', sans-serif; /* Use a modern font */
   word-spacing: 2px; /* Add spacing between words */
   letter-spacing: 0.5px; /* Slight letter spacing for readability */
